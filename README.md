@@ -50,7 +50,7 @@ Node.js-Express-Starter-01/
 
 #### 1. Ve al repositorio original en GitHub (este repositorio xD)
 
-#### 2. Haz click en el botón verde "Use this template" (Usar esta plantilla)
+#### 2. Haz click en el botón verde "Use this template/Create a new repository" (Usar esta plantilla/crear nuevo repositorio)
 
 Esto te permitirá crear una copia nueva del repositorio en tu cuenta, sin el historial de cambios (commits) del original. Ideal para empezar limpio.
 
