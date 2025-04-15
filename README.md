@@ -128,7 +128,7 @@ Esto quiere decir que mientras estés trabajando en tu computadora (modo desarro
 puedes utilizar ```npm run dev```.
 Este comando ejecuta el servidor usando Nodemon, que reinicia automáticamente tu aplicación cada vez que guardas un cambio en el código. Muy útil mientras estás programando.
 
-Cuando quieras desplegar tu proyecto en la nube (por ejemplo en Render, Railway, AWS, GCP, Azure, Fl0, etc.), deberás asegurarte de que el comando configurado para iniciar la aplicación sea: ```npm start```.
+Cuando tengas tu proyecto backend listo y quieras desplegarlo en la nube (por ejemplo en Render, Railway, AWS, GCP, Azure, Fl0, DigitalOcean etc.), deberás asegurarte de que el comando configurado para iniciar la aplicación sea: ```npm start```.
 
 Este comando ejecuta el servidor sin reinicios automáticos, como se espera en entornos de producción.
 
